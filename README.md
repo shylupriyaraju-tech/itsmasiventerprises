@@ -1,2 +1,2 @@
 # itsmasiventerprises
-Digital marketing services, meta ads, social media marketing, website development and lead generation by itsMasiv Enterprises
+Digital marketing services, meta ads, social media marketing, website development and lead generation by ItsMasiv Enterprises

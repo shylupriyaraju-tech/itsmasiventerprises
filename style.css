@@ -16,7 +16,7 @@ p+p{margin-top:1rem}
 
 .nav{position:sticky;top:0;z-index:20;display:flex;align-items:center;justify-content:space-between;padding:.6rem 1.25rem;background:rgba(12,42,30,.92);backdrop-filter:blur(8px);border-bottom:1px solid rgba(212,175,97,.25)}
 .brand{display:flex;align-items:center;gap:.6rem;font:600 1.4rem var(--serif);color:var(--gold)}
-.brand img{border-radius:50%}
+.brand img{width:40px;height:40px;object-fit:cover;border-radius:50%;flex-shrink:0}
 .nav nav{display:flex;align-items:center;gap:1.5rem}
 .nav nav a{color:var(--cream);font-size:.95rem}
 .nav nav a:hover{color:var(--gold)}
